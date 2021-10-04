@@ -1,0 +1,11 @@
+C:\Programación\Cursos\Visual Basic\Procedimientos Sub\obj\Debug\Procedimientos Sub.vbproj.AssemblyReference.cache
+C:\Programación\Cursos\Visual Basic\Procedimientos Sub\obj\Debug\Procedimientos_Sub.Resources.resources
+C:\Programación\Cursos\Visual Basic\Procedimientos Sub\obj\Debug\Procedimientos Sub.vbproj.GenerateResource.cache
+C:\Programación\Cursos\Visual Basic\Procedimientos Sub\obj\Debug\Procedimientos Sub.vbproj.CoreCompileInputs.cache
+C:\Programación\Cursos\Visual Basic\Procedimientos Sub\bin\Debug\Procedimientos Sub.exe.config
+C:\Programación\Cursos\Visual Basic\Procedimientos Sub\bin\Debug\Procedimientos Sub.exe
+C:\Programación\Cursos\Visual Basic\Procedimientos Sub\bin\Debug\Procedimientos Sub.pdb
+C:\Programación\Cursos\Visual Basic\Procedimientos Sub\bin\Debug\Procedimientos Sub.xml
+C:\Programación\Cursos\Visual Basic\Procedimientos Sub\obj\Debug\Procedimientos Sub.exe
+C:\Programación\Cursos\Visual Basic\Procedimientos Sub\obj\Debug\Procedimientos Sub.xml
+C:\Programación\Cursos\Visual Basic\Procedimientos Sub\obj\Debug\Procedimientos Sub.pdb

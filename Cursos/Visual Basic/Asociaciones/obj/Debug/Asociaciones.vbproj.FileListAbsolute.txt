@@ -1,0 +1,11 @@
+C:\Programación\Cursos\Visual Basic\Asociaciones\bin\Debug\Asociaciones.exe.config
+C:\Programación\Cursos\Visual Basic\Asociaciones\bin\Debug\Asociaciones.exe
+C:\Programación\Cursos\Visual Basic\Asociaciones\bin\Debug\Asociaciones.pdb
+C:\Programación\Cursos\Visual Basic\Asociaciones\bin\Debug\Asociaciones.xml
+C:\Programación\Cursos\Visual Basic\Asociaciones\obj\Debug\Asociaciones.vbproj.AssemblyReference.cache
+C:\Programación\Cursos\Visual Basic\Asociaciones\obj\Debug\Asociaciones.Resources.resources
+C:\Programación\Cursos\Visual Basic\Asociaciones\obj\Debug\Asociaciones.vbproj.GenerateResource.cache
+C:\Programación\Cursos\Visual Basic\Asociaciones\obj\Debug\Asociaciones.vbproj.CoreCompileInputs.cache
+C:\Programación\Cursos\Visual Basic\Asociaciones\obj\Debug\Asociaciones.exe
+C:\Programación\Cursos\Visual Basic\Asociaciones\obj\Debug\Asociaciones.xml
+C:\Programación\Cursos\Visual Basic\Asociaciones\obj\Debug\Asociaciones.pdb

@@ -1,0 +1,11 @@
+C:\Programación\Cursos\Visual Basic\TiposEnumerados\obj\Debug\TiposEnumerados.vbproj.AssemblyReference.cache
+C:\Programación\Cursos\Visual Basic\TiposEnumerados\obj\Debug\TiposEnumerados.Resources.resources
+C:\Programación\Cursos\Visual Basic\TiposEnumerados\obj\Debug\TiposEnumerados.vbproj.GenerateResource.cache
+C:\Programación\Cursos\Visual Basic\TiposEnumerados\obj\Debug\TiposEnumerados.vbproj.CoreCompileInputs.cache
+C:\Programación\Cursos\Visual Basic\TiposEnumerados\bin\Debug\TiposEnumerados.exe.config
+C:\Programación\Cursos\Visual Basic\TiposEnumerados\bin\Debug\TiposEnumerados.exe
+C:\Programación\Cursos\Visual Basic\TiposEnumerados\bin\Debug\TiposEnumerados.pdb
+C:\Programación\Cursos\Visual Basic\TiposEnumerados\bin\Debug\TiposEnumerados.xml
+C:\Programación\Cursos\Visual Basic\TiposEnumerados\obj\Debug\TiposEnumerados.exe
+C:\Programación\Cursos\Visual Basic\TiposEnumerados\obj\Debug\TiposEnumerados.xml
+C:\Programación\Cursos\Visual Basic\TiposEnumerados\obj\Debug\TiposEnumerados.pdb

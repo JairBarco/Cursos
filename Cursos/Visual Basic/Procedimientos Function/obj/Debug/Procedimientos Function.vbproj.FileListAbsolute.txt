@@ -1,0 +1,11 @@
+C:\Programación\Cursos\Visual Basic\Procedimientos Function\bin\Debug\Procedimientos Function.exe.config
+C:\Programación\Cursos\Visual Basic\Procedimientos Function\bin\Debug\Procedimientos Function.exe
+C:\Programación\Cursos\Visual Basic\Procedimientos Function\bin\Debug\Procedimientos Function.pdb
+C:\Programación\Cursos\Visual Basic\Procedimientos Function\bin\Debug\Procedimientos Function.xml
+C:\Programación\Cursos\Visual Basic\Procedimientos Function\obj\Debug\Procedimientos_Function.Resources.resources
+C:\Programación\Cursos\Visual Basic\Procedimientos Function\obj\Debug\Procedimientos Function.vbproj.GenerateResource.cache
+C:\Programación\Cursos\Visual Basic\Procedimientos Function\obj\Debug\Procedimientos Function.vbproj.CoreCompileInputs.cache
+C:\Programación\Cursos\Visual Basic\Procedimientos Function\obj\Debug\Procedimientos Function.exe
+C:\Programación\Cursos\Visual Basic\Procedimientos Function\obj\Debug\Procedimientos Function.xml
+C:\Programación\Cursos\Visual Basic\Procedimientos Function\obj\Debug\Procedimientos Function.pdb
+C:\Programación\Cursos\Visual Basic\Procedimientos Function\obj\Debug\Procedimientos Function.vbproj.AssemblyReference.cache

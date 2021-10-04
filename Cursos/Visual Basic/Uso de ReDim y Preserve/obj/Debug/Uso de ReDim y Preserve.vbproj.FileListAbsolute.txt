@@ -1,0 +1,11 @@
+C:\Programación\Cursos\Visual Basic\Uso de ReDim y Preserve\bin\Debug\Uso de ReDim y Preserve.exe.config
+C:\Programación\Cursos\Visual Basic\Uso de ReDim y Preserve\bin\Debug\Uso de ReDim y Preserve.exe
+C:\Programación\Cursos\Visual Basic\Uso de ReDim y Preserve\bin\Debug\Uso de ReDim y Preserve.pdb
+C:\Programación\Cursos\Visual Basic\Uso de ReDim y Preserve\bin\Debug\Uso de ReDim y Preserve.xml
+C:\Programación\Cursos\Visual Basic\Uso de ReDim y Preserve\obj\Debug\Uso de ReDim y Preserve.vbproj.AssemblyReference.cache
+C:\Programación\Cursos\Visual Basic\Uso de ReDim y Preserve\obj\Debug\Uso_de_ReDim_y_Preserve.Resources.resources
+C:\Programación\Cursos\Visual Basic\Uso de ReDim y Preserve\obj\Debug\Uso de ReDim y Preserve.vbproj.GenerateResource.cache
+C:\Programación\Cursos\Visual Basic\Uso de ReDim y Preserve\obj\Debug\Uso de ReDim y Preserve.vbproj.CoreCompileInputs.cache
+C:\Programación\Cursos\Visual Basic\Uso de ReDim y Preserve\obj\Debug\Uso de ReDim y Preserve.exe
+C:\Programación\Cursos\Visual Basic\Uso de ReDim y Preserve\obj\Debug\Uso de ReDim y Preserve.xml
+C:\Programación\Cursos\Visual Basic\Uso de ReDim y Preserve\obj\Debug\Uso de ReDim y Preserve.pdb

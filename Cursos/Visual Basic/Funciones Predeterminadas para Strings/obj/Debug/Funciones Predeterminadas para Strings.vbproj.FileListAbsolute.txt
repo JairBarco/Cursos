@@ -1,0 +1,11 @@
+C:\Programación\Cursos\Visual Basic\Funciones Predeterminadas para Strings\bin\Debug\Funciones Predeterminadas para Strings.exe.config
+C:\Programación\Cursos\Visual Basic\Funciones Predeterminadas para Strings\bin\Debug\Funciones Predeterminadas para Strings.exe
+C:\Programación\Cursos\Visual Basic\Funciones Predeterminadas para Strings\bin\Debug\Funciones Predeterminadas para Strings.pdb
+C:\Programación\Cursos\Visual Basic\Funciones Predeterminadas para Strings\bin\Debug\Funciones Predeterminadas para Strings.xml
+C:\Programación\Cursos\Visual Basic\Funciones Predeterminadas para Strings\obj\Debug\Funciones Predeterminadas para Strings.vbproj.AssemblyReference.cache
+C:\Programación\Cursos\Visual Basic\Funciones Predeterminadas para Strings\obj\Debug\Funciones_Predeterminadas_para_Strings.Resources.resources
+C:\Programación\Cursos\Visual Basic\Funciones Predeterminadas para Strings\obj\Debug\Funciones Predeterminadas para Strings.vbproj.GenerateResource.cache
+C:\Programación\Cursos\Visual Basic\Funciones Predeterminadas para Strings\obj\Debug\Funciones Predeterminadas para Strings.vbproj.CoreCompileInputs.cache
+C:\Programación\Cursos\Visual Basic\Funciones Predeterminadas para Strings\obj\Debug\Funciones Predeterminadas para Strings.exe
+C:\Programación\Cursos\Visual Basic\Funciones Predeterminadas para Strings\obj\Debug\Funciones Predeterminadas para Strings.xml
+C:\Programación\Cursos\Visual Basic\Funciones Predeterminadas para Strings\obj\Debug\Funciones Predeterminadas para Strings.pdb

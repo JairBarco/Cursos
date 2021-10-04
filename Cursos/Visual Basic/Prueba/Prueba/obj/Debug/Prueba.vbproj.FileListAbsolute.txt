@@ -1,0 +1,10 @@
+C:\Programación\Cursos\Visual Basic\Prueba\Prueba\bin\Debug\Prueba.exe.config
+C:\Programación\Cursos\Visual Basic\Prueba\Prueba\bin\Debug\Prueba.exe
+C:\Programación\Cursos\Visual Basic\Prueba\Prueba\bin\Debug\Prueba.pdb
+C:\Programación\Cursos\Visual Basic\Prueba\Prueba\bin\Debug\Prueba.xml
+C:\Programación\Cursos\Visual Basic\Prueba\Prueba\obj\Debug\Prueba.Resources.resources
+C:\Programación\Cursos\Visual Basic\Prueba\Prueba\obj\Debug\Prueba.vbproj.GenerateResource.cache
+C:\Programación\Cursos\Visual Basic\Prueba\Prueba\obj\Debug\Prueba.vbproj.CoreCompileInputs.cache
+C:\Programación\Cursos\Visual Basic\Prueba\Prueba\obj\Debug\Prueba.exe
+C:\Programación\Cursos\Visual Basic\Prueba\Prueba\obj\Debug\Prueba.xml
+C:\Programación\Cursos\Visual Basic\Prueba\Prueba\obj\Debug\Prueba.pdb

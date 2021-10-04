@@ -1,0 +1,11 @@
+C:\Programación\Cursos\Visual Basic\Herencia\bin\Debug\Herencia.exe.config
+C:\Programación\Cursos\Visual Basic\Herencia\bin\Debug\Herencia.exe
+C:\Programación\Cursos\Visual Basic\Herencia\bin\Debug\Herencia.pdb
+C:\Programación\Cursos\Visual Basic\Herencia\bin\Debug\Herencia.xml
+C:\Programación\Cursos\Visual Basic\Herencia\obj\Debug\Herencia.vbproj.AssemblyReference.cache
+C:\Programación\Cursos\Visual Basic\Herencia\obj\Debug\Herencia.Resources.resources
+C:\Programación\Cursos\Visual Basic\Herencia\obj\Debug\Herencia.vbproj.GenerateResource.cache
+C:\Programación\Cursos\Visual Basic\Herencia\obj\Debug\Herencia.vbproj.CoreCompileInputs.cache
+C:\Programación\Cursos\Visual Basic\Herencia\obj\Debug\Herencia.exe
+C:\Programación\Cursos\Visual Basic\Herencia\obj\Debug\Herencia.xml
+C:\Programación\Cursos\Visual Basic\Herencia\obj\Debug\Herencia.pdb

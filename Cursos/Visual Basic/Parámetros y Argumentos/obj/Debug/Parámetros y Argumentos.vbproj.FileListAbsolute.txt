@@ -1,0 +1,10 @@
+C:\Programación\Cursos\Visual Basic\Parámetros y Argumentos\bin\Debug\Parámetros y Argumentos.exe.config
+C:\Programación\Cursos\Visual Basic\Parámetros y Argumentos\bin\Debug\Parámetros y Argumentos.exe
+C:\Programación\Cursos\Visual Basic\Parámetros y Argumentos\bin\Debug\Parámetros y Argumentos.pdb
+C:\Programación\Cursos\Visual Basic\Parámetros y Argumentos\bin\Debug\Parámetros y Argumentos.xml
+C:\Programación\Cursos\Visual Basic\Parámetros y Argumentos\obj\Debug\Parámetros_y_Argumentos.Resources.resources
+C:\Programación\Cursos\Visual Basic\Parámetros y Argumentos\obj\Debug\Parámetros y Argumentos.vbproj.GenerateResource.cache
+C:\Programación\Cursos\Visual Basic\Parámetros y Argumentos\obj\Debug\Parámetros y Argumentos.vbproj.CoreCompileInputs.cache
+C:\Programación\Cursos\Visual Basic\Parámetros y Argumentos\obj\Debug\Parámetros y Argumentos.exe
+C:\Programación\Cursos\Visual Basic\Parámetros y Argumentos\obj\Debug\Parámetros y Argumentos.xml
+C:\Programación\Cursos\Visual Basic\Parámetros y Argumentos\obj\Debug\Parámetros y Argumentos.pdb

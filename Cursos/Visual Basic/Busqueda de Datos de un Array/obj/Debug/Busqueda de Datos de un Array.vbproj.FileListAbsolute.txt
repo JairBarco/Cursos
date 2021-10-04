@@ -1,0 +1,10 @@
+C:\Programación\Cursos\Visual Basic\Busqueda de Datos de un Array\obj\Debug\Busqueda_de_Datos_de_un_Array.Resources.resources
+C:\Programación\Cursos\Visual Basic\Busqueda de Datos de un Array\obj\Debug\Busqueda de Datos de un Array.vbproj.GenerateResource.cache
+C:\Programación\Cursos\Visual Basic\Busqueda de Datos de un Array\obj\Debug\Busqueda de Datos de un Array.vbproj.CoreCompileInputs.cache
+C:\Programación\Cursos\Visual Basic\Busqueda de Datos de un Array\bin\Debug\Busqueda de Datos de un Array.exe.config
+C:\Programación\Cursos\Visual Basic\Busqueda de Datos de un Array\bin\Debug\Busqueda de Datos de un Array.exe
+C:\Programación\Cursos\Visual Basic\Busqueda de Datos de un Array\bin\Debug\Busqueda de Datos de un Array.pdb
+C:\Programación\Cursos\Visual Basic\Busqueda de Datos de un Array\bin\Debug\Busqueda de Datos de un Array.xml
+C:\Programación\Cursos\Visual Basic\Busqueda de Datos de un Array\obj\Debug\Busqueda de Datos de un Array.exe
+C:\Programación\Cursos\Visual Basic\Busqueda de Datos de un Array\obj\Debug\Busqueda de Datos de un Array.xml
+C:\Programación\Cursos\Visual Basic\Busqueda de Datos de un Array\obj\Debug\Busqueda de Datos de un Array.pdb

@@ -1,0 +1,11 @@
+C:\Users\jair_\source\repos\UsoShared\bin\Debug\UsoShared.exe.config
+C:\Users\jair_\source\repos\UsoShared\bin\Debug\UsoShared.exe
+C:\Users\jair_\source\repos\UsoShared\bin\Debug\UsoShared.pdb
+C:\Users\jair_\source\repos\UsoShared\bin\Debug\UsoShared.xml
+C:\Users\jair_\source\repos\UsoShared\obj\Debug\UsoShared.vbproj.AssemblyReference.cache
+C:\Users\jair_\source\repos\UsoShared\obj\Debug\UsoShared.Resources.resources
+C:\Users\jair_\source\repos\UsoShared\obj\Debug\UsoShared.vbproj.GenerateResource.cache
+C:\Users\jair_\source\repos\UsoShared\obj\Debug\UsoShared.vbproj.CoreCompileInputs.cache
+C:\Users\jair_\source\repos\UsoShared\obj\Debug\UsoShared.exe
+C:\Users\jair_\source\repos\UsoShared\obj\Debug\UsoShared.xml
+C:\Users\jair_\source\repos\UsoShared\obj\Debug\UsoShared.pdb

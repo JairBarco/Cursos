@@ -1,0 +1,11 @@
+C:\Programación\Cursos\Visual Basic\InterfacesII\bin\Debug\InterfacesII.exe.config
+C:\Programación\Cursos\Visual Basic\InterfacesII\bin\Debug\InterfacesII.exe
+C:\Programación\Cursos\Visual Basic\InterfacesII\bin\Debug\InterfacesII.pdb
+C:\Programación\Cursos\Visual Basic\InterfacesII\bin\Debug\InterfacesII.xml
+C:\Programación\Cursos\Visual Basic\InterfacesII\obj\Debug\InterfacesII.vbproj.AssemblyReference.cache
+C:\Programación\Cursos\Visual Basic\InterfacesII\obj\Debug\InterfacesII.Resources.resources
+C:\Programación\Cursos\Visual Basic\InterfacesII\obj\Debug\InterfacesII.vbproj.GenerateResource.cache
+C:\Programación\Cursos\Visual Basic\InterfacesII\obj\Debug\InterfacesII.vbproj.CoreCompileInputs.cache
+C:\Programación\Cursos\Visual Basic\InterfacesII\obj\Debug\InterfacesII.exe
+C:\Programación\Cursos\Visual Basic\InterfacesII\obj\Debug\InterfacesII.xml
+C:\Programación\Cursos\Visual Basic\InterfacesII\obj\Debug\InterfacesII.pdb

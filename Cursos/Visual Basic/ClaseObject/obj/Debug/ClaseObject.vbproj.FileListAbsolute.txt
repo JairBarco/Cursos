@@ -1,0 +1,11 @@
+C:\Programación\Cursos\Visual Basic\ClaseObject\bin\Debug\ClaseObject.exe.config
+C:\Programación\Cursos\Visual Basic\ClaseObject\bin\Debug\ClaseObject.exe
+C:\Programación\Cursos\Visual Basic\ClaseObject\bin\Debug\ClaseObject.pdb
+C:\Programación\Cursos\Visual Basic\ClaseObject\bin\Debug\ClaseObject.xml
+C:\Programación\Cursos\Visual Basic\ClaseObject\obj\Debug\ClaseObject.vbproj.AssemblyReference.cache
+C:\Programación\Cursos\Visual Basic\ClaseObject\obj\Debug\ClaseObject.Resources.resources
+C:\Programación\Cursos\Visual Basic\ClaseObject\obj\Debug\ClaseObject.vbproj.GenerateResource.cache
+C:\Programación\Cursos\Visual Basic\ClaseObject\obj\Debug\ClaseObject.vbproj.CoreCompileInputs.cache
+C:\Programación\Cursos\Visual Basic\ClaseObject\obj\Debug\ClaseObject.exe
+C:\Programación\Cursos\Visual Basic\ClaseObject\obj\Debug\ClaseObject.xml
+C:\Programación\Cursos\Visual Basic\ClaseObject\obj\Debug\ClaseObject.pdb

@@ -1,0 +1,10 @@
+C:\Programación\Cursos\Visual Basic\ExcepcionesII\bin\Debug\ExcepcionesII.exe.config
+C:\Programación\Cursos\Visual Basic\ExcepcionesII\bin\Debug\ExcepcionesII.exe
+C:\Programación\Cursos\Visual Basic\ExcepcionesII\bin\Debug\ExcepcionesII.pdb
+C:\Programación\Cursos\Visual Basic\ExcepcionesII\bin\Debug\ExcepcionesII.xml
+C:\Programación\Cursos\Visual Basic\ExcepcionesII\obj\Debug\ExcepcionesII.Resources.resources
+C:\Programación\Cursos\Visual Basic\ExcepcionesII\obj\Debug\ExcepcionesII.vbproj.GenerateResource.cache
+C:\Programación\Cursos\Visual Basic\ExcepcionesII\obj\Debug\ExcepcionesII.vbproj.CoreCompileInputs.cache
+C:\Programación\Cursos\Visual Basic\ExcepcionesII\obj\Debug\ExcepcionesII.exe
+C:\Programación\Cursos\Visual Basic\ExcepcionesII\obj\Debug\ExcepcionesII.xml
+C:\Programación\Cursos\Visual Basic\ExcepcionesII\obj\Debug\ExcepcionesII.pdb
